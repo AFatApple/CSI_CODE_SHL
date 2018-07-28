@@ -1,3 +1,4 @@
+%啊的就是福利卡节点上
 function output_top_aoas = run_spotfi_shl(filepath)
 	antenna_distance = 0.026;
     frequency = 5.745 * 10^9; 
